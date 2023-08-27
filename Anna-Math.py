@@ -1,8 +1,5 @@
-import msvcrt
 import random
 import time
-import keyboard
-
 
 def emulate_print_cat(delay=0.05):
 
